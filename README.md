@@ -3,8 +3,6 @@ A new framework for GANs evaluation based on eXplainable Artificial Intelligence
 
 This repository contains useful code for the paper work **Narteni S., Orani V., Ferrari E., Verda D., Cambiaso E., Mongelli M. (2021). “Explainable Evaluation of Generative Adversarial Networks for Wearables Data Augmentation”** submitted to Elsevier-Future Generation Computer Systems journal
 
-# Overall Idea
-![image info](./pictures/image.png)
 
 # Overall structure
 The repository contains the following elements:
