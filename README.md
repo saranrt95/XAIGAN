@@ -14,6 +14,6 @@ The repository contains the following elements:
 
 # Usage
 - For data augmentation, just run the notebook; check the import of real datasets and make sure that over and under names are consistent (for over 40, no "under" word should be present in the code and viceversa).
-- Once generated the fake datasets, you can try the inference of safety regions by using the code in *Reliability methods folder*
+- Once generated the fake datasets, you can try the inference of safety regions by using the code in *Reliability methods folder*: just run *reliableTest_GAN.py*
 
 
