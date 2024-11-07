@@ -1,7 +1,7 @@
 # XAIGAN
 A new framework for GANs evaluation based on eXplainable Artificial Intelligence models.
 
-This repository contains useful code for the paper work **Narteni S., Orani V., Ferrari E., Verda D., Cambiaso E., Mongelli M. (2021). “Explainable Evaluation of Generative Adversarial Networks for Wearables Data Augmentation”** submitted to Elsevier-Future Generation Computer Systems journal
+This repository contains useful code for the paper work **Narteni S., Orani V., Ferrari E., Verda D., Cambiaso E., Mongelli M. (2021). “Explainable Evaluation of Generative Adversarial Networks for Wearables Data Augmentation”** submitted to Elsevier-Engineering Applications of Artificial Intelligence
 
 
 # Overall structure
